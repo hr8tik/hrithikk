@@ -1,0 +1,7 @@
+.intro_img{
+    --animate-duration:3s; 
+       
+}
+.intro1 p{
+    --animate-delay: 2s;
+}
